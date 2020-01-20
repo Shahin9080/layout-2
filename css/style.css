@@ -1,0 +1,124 @@
+.top_header{
+    overflow: hidden;
+}
+.logo{
+
+    width: 30%;
+    height: 100px;
+    background-color: rebeccapurple;
+    float: left;
+	
+	
+
+}
+
+.banner{
+
+    width: 58%;
+    height: 100px;
+    background-color: aqua;
+    float: right;
+	
+	
+}
+
+.header_bar{
+
+    height: 100px;
+    background-color: blue;
+    margin-top: 30px;
+	
+	padding-top:50px;
+}
+.content{
+
+    margin-top: 30px;
+	text-align:center;	
+	
+}
+
+.left{
+
+    width: 20%;
+    height: 400px;
+    background-color: blueviolet;
+    float: left;
+	
+	
+
+
+}
+
+.middle{
+
+    width: 50%;
+    height: 400px;
+    background-color: darkgreen;
+    float: left;
+    margin-left: 5%;
+	
+	
+
+}
+
+.right{
+
+    width: 20%;
+    height: 400px;
+    background-color:yellow;
+    float:right;
+	
+	
+
+}
+
+.top{
+
+    height: 100px;
+    background-color:green;
+	text-align:center;
+	
+}
+
+.center{
+    height: 200px;
+    background-color: blue;
+	
+	
+
+}
+
+.botom{
+
+height: 100px;
+background-color: brown;
+
+
+
+}
+
+.left_center{
+
+    width: 50%;
+    height: 200px;
+    background-color: lime;
+    float: left;
+	
+	
+}
+
+.right_center{
+
+width: 50%;
+height: 200px;
+background-color: darkmagenta;
+float:right;
+
+
+}
+
+h1{
+
+    margin:0px;
+	text-align:center;
+}
